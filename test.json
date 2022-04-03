@@ -1,0 +1,13 @@
+[{
+		"lesinhoud": "JavaScript",
+		"module": "WFB",
+		"dag": "maandag",
+		"lokaal": "K1.012"
+	},
+	{
+		"lesinhoud": "Web Backend",
+		"module": "WBA",
+		"dag": "Dinsdag",
+		"lokaal": "U.002"
+	}
+]
